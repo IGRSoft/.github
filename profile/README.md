@@ -42,7 +42,7 @@ Swift • SwiftUI • Combine • Objective-C • C++ • Python
 
 [![Website](https://img.shields.io/badge/igrsoft.com-000?style=flat&logo=safari&logoColor=white)](https://igrsoft.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitaliip)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:info@igrsoft.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:connect@igrsoft.com)
 
 ---
 
